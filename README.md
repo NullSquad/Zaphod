@@ -1,6 +1,6 @@
 # Zaphod &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/NullSquad/Zaphod/blob/main/LICENSE)
 
-React is the multi-faceted, multi-purpose JavaScript library that makes building user interfaces as cool and effortless as cruising through the galaxy with two heads and three arms!
+Zaphod is the multi-faceted, multi-purpose JavaScript library that makes building user interfaces as cool and effortless as cruising through the galaxy with two heads and three arms!
 
 * **Multi-Component Architecture:**: Build reusable, self-contained components that can be assembled into complex UIs.
 * **Virtual DOM:** Experience fast, efficient rendering with Zaphod's virtual DOM implementation, ensuring smooth and responsive interfaces.
